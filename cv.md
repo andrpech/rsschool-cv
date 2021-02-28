@@ -31,3 +31,12 @@ function bubbleSort(arr) {
 }
 console.log(bubbleSort(array));
 ```
+## Work experience
+* none for now
+
+## Education
+* RS-School
+
+## Languages
+* English - B2 (IELTS)
+* Polish - B1 (UW certificate)
