@@ -1,0 +1,53 @@
+.wrapper {
+    max-width: 1260px;
+    width: 90%;
+    margin: auto;
+    background: #bdbec0;
+}
+header {
+    display: flex;
+    align-items: center;
+    height: 420px;
+}
+
+
+.photo {
+    display: block;
+    margin: 15% auto;
+    width: 70%;
+    border-radius: 100%;
+  
+  }
+
+.name {
+    font-size: 85px;
+    line-height: 1;
+    margin: 0 0 20px 0;
+    padding: 0;
+}
+
+.footer {
+  display: flex;
+  padding-left: 4%;
+  padding-right: 7%;
+  padding-bottom: 30px;
+  justify-content: space-between;
+  align-items: center;
+  background: #bdbec0;  
+}
+
+.rss-logo {
+  display: block;
+  width: 100px;
+  height: 50px;
+  background: url(../img/rs_school_js.svg) center no-repeat;
+  background-size: contain;
+}
+
+.my-github-link {
+  text-decoration: none;
+}
+
+.my-github-link:visited {
+  color: #fff;  
+}
